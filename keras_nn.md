@@ -64,7 +64,8 @@ Keras provides a **high-level API** for building and training neural networks, o
 
 ---
 
-This section covers **Model Configuration, Training, and Testing in Keras**, providing a structured approach to building and evaluating deep learning models. Based on the surrounding document content, which discusses **Keras Advanced API**, **model optimization**, and **training strategies**, here are the key points:
+### **Model Configuration, Training, and Testing** in Keras 
+    providing a structured approach to building and evaluating deep learning models. 
 
 ### **1. Model Creation and Configuration**
 - **Define the architecture** using `Sequential()` or Functional API.
